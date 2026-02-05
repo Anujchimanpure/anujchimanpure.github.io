@@ -293,6 +293,7 @@ nav a.active::after {
   color: #333;
   margin-bottom: 14px;
   line-height: 1.6;
+  text-align: justify;
 }
 @media (max-width: 768px) {
   .projects-grid {
@@ -684,5 +685,6 @@ a {
   }
 
 }
+
 
 
